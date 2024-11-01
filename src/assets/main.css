@@ -352,7 +352,7 @@ footer{
 #icon{
   position: absolute;
   top: 500px;
-  left: 200px;
+  left: 60px;
   display: flex;
 }
 span{
@@ -367,7 +367,7 @@ span{
 #form{
   position: absolute;
   top: 350px;
-  left: 200px;
+  left: 60px;
 }
 input{
   border-bottom:#ff6c04 solid 2px;

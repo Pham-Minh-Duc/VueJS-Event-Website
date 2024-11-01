@@ -188,19 +188,19 @@ export default {
             <div>{{ sp }}</div>
           </div>
         </div>
-      </div>
-      <div id="form">
-        <input type="text" placeholder="Enter Your Email" required v-model="email">
-      </div>
-      <div id="icon">
-        <span class="ti-credit-card"></span>
-        <span class="ti-linkedin"></span>
-        <span class="ti-pinterest"></span>
-        <span class="ti-vimeo-alt"></span>
-        <span class="ti-twitter"></span>
-        <span class="ti-instagram"></span>
-        <span class="ti-facebook"></span>
-        <span class="ti-github"></span>
+        <div id="form">
+          <input type="text" placeholder="Enter Your Email" required v-model="email">
+        </div>
+        <div id="icon">
+          <span class="ti-credit-card"></span>
+          <span class="ti-linkedin"></span>
+          <span class="ti-pinterest"></span>
+          <span class="ti-vimeo-alt"></span>
+          <span class="ti-twitter"></span>
+          <span class="ti-instagram"></span>
+          <span class="ti-facebook"></span>
+          <span class="ti-github"></span>
+        </div>
       </div>
     </footer>
   </div>
